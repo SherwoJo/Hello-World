@@ -2,6 +2,8 @@
 
 This project is a HelloWorld program created in the C# language
 
+* [Code Walkthrough Video](https://www.youtube.com/watch?v=BOGVLLiqiYo)
+
 # Development Environment
 
 This program was written in the C# language using Visual Studio Community.
